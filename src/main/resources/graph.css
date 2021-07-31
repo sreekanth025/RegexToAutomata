@@ -1,0 +1,21 @@
+graph {
+}
+
+node {
+    size: 35px;
+    shape: circle;
+    text-size: 30;
+    fill-color: green;
+    stroke-mode: plain;
+    stroke-color: yellow;
+}
+
+node#0 {
+    fill-color: lightblue;
+}
+
+edge {
+    text-size: 30;
+    arrow-shape: arrow;
+    arrow-size: 15, 5;
+}

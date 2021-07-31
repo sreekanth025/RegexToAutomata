@@ -8,8 +8,9 @@ import lombok.Setter;
 @Getter
 @Setter
 public class Transition {
-    private int fromState, toState;
-    private char action;
+
+    private Integer fromState, toState;
+    private Character action;
 
     public void printTransition() {
         System.out.println("(" + this.getFromState()
