@@ -20,3 +20,7 @@ mvn exec:java -Dexec.mainClass=com.sreekanth.compilerdesign.RegexToAutomata
 - User can also choose random regular expression by entering "random".
 - The program will display the formatted expression (with concatenation operator) and compute its postfix.
 - Then the application will display corresponding NFA in a new window and also in the console as well.
+
+
+Note: 
+NFA to DFA conversion (Automata/DFA.java) is still under development.
