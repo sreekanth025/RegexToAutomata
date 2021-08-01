@@ -23,4 +23,4 @@ mvn exec:java -Dexec.mainClass=com.sreekanth.compilerdesign.RegexToAutomata
 
 
 Note: 
-NFA to DFA conversion (Automata/DFA.java) is still under development.
+NFA to DFA conversion (models/automata/DFA.java) is still under development.
