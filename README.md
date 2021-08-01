@@ -19,4 +19,4 @@ mvn exec:java -Dexec.mainClass=com.sreekanth.compilerdesign.RegexToAutomata
   - '(' or ')'
 - User can also choose random regular expression by entering "random".
 - The program will display the formatted expression (with concatenation operator) and compute its postfix.
-- Then the application will display the corresponding NFA in new window and also in the console as well.
+- Then the application will display corresponding NFA in a new window and also in the console as well.
