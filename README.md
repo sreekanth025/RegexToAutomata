@@ -6,7 +6,7 @@
 
 ### To build and run the program
 ```
-mvn clean intall
+mvn clean install
 mvn exec:java -Dexec.mainClass=com.sreekanth.compilerdesign.RegexToAutomata
 ```
 
